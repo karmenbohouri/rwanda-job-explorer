@@ -60,8 +60,8 @@ To verify load balancing is working, you can check the `X-Served-By` response he
 
 1. **Clone the repository**
 ```bash
-   git clone https://github.com/karmenbohouri/job_analyzer_project.git
-   cd job_analyzer_project
+   git clone https://github.com/karmenbohouri/rwanda-job-explorer.git
+   cd rwanda-job-explorer
 ```
 
 2. **Create a virtual environment and install dependencies**
