@@ -2,7 +2,7 @@
 
 Welcome to the **Rwanda Job Market Explorer**, a Flask-based web application that lets users search, filter, and export real-time job listings in Rwanda. Built as part of my **System Engineering & DevOps** curriculum at ALU/Holberton.
 
-🎥 **Demo video:** https://youtu.be/XjiOrTIoXes
+🎥 **Demo video:** https://youtu.be/pcPO2MM3JEw
 🌐 **Live site:** https://35.175.242.143 (self-signed certificate, click "Advanced > Proceed" to view)
 
 ---
